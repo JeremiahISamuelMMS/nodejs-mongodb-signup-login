@@ -1,6 +1,6 @@
 // project config
 exports.APP_NAME = 'Alasto';
-exports.MONGODB_URI = 'mongodb://127.0.0.1:27017/?readPreference=primary&appname=MongoDB%20Compass&ssl=false/alasto';
+exports.MONGODB_URI = 'mongodb+srv://OnlineSpaces:135435tmnt@cluster0.i41zk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority';
 exports.JWT_SECRET = 'WhatIsMySecret???';
 
 // user model config
